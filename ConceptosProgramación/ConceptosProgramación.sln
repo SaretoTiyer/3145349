@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01", "01", "{02EA681E-C7D8-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParImpar", "ParImpar\ParImpar.csproj", "{1810B040-9CD2-4D44-929E-1815221944B8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02", "02", "{D7FCC031-47E4-4342-B362-215D3A73C68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroMayor", "NumeroMayor\NumeroMayor.csproj", "{F6C30767-B050-4672-901B-9BD00B6026EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{1810B040-9CD2-4D44-929E-1815221944B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1810B040-9CD2-4D44-929E-1815221944B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1810B040-9CD2-4D44-929E-1815221944B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C30767-B050-4672-901B-9BD00B6026EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C30767-B050-4672-901B-9BD00B6026EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C30767-B050-4672-901B-9BD00B6026EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C30767-B050-4672-901B-9BD00B6026EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1810B040-9CD2-4D44-929E-1815221944B8} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F6C30767-B050-4672-901B-9BD00B6026EB} = {D7FCC031-47E4-4342-B362-215D3A73C68D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {54D38977-F7B2-456E-9707-3C8F9B4183A1}
